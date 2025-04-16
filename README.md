@@ -2,6 +2,8 @@
 
 **KnowBot** is a Generative AI-powered image classifier built using a custom-trained Vision Transformer (ViT) model on the CIFAR-10 dataset. This interactive Streamlit app lets users upload an image and instantly recognize its class from one of the ten CIFAR-10 categories.
 
+Dataset Link : https://www.kaggle.com/c/cifar-10/data
+
 > 🚀 Implemented as a Generative AI project to demonstrate the power of transformer-based architectures in image understanding.
 
 ---
