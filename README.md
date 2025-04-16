@@ -6,6 +6,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/04687db8-13af-4088-8518-594f5f7c5411
+
+
 ## 🔍 Features
 
 - ✨ **Generative AI with Vision Transformer (ViT)**
@@ -15,6 +19,7 @@
 - 📚 Trained on the CIFAR-10 dataset (10 categories)
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -35,5 +40,5 @@
    cd knowbot_genAI
 
 
-Uploading Screen Recording 2025-04-17 004712.mp4…
+
 
