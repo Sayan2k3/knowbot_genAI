@@ -31,5 +31,5 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/knowbot_genAI.git
+   git clone [https://github.com/your-username/knowbot_genAI](https://github.com/Sayan2k3/knowbot_genAI/tree/master).git
    cd knowbot_genAI
